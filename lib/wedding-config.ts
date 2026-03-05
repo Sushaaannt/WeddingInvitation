@@ -4,7 +4,7 @@
 
 export const CONFIG = {
   coupleName: "Alex & Emma",
-  brideName: "Emma Johnson",
+  brideName: "Vidya Johnson",
   groomName: "Alex Carter",
   weddingDate: "2027-02-14",
   ceremonyTime: "4:00 PM",
