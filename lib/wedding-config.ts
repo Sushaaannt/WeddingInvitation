@@ -3,7 +3,7 @@
 // ============================================================
 
 export const CONFIG = {
-  coupleName: "Alex & Emma",
+  coupleName: "Alex & Vidya",
   brideName: "Vidya Johnson",
   groomName: "Alex Carter",
   weddingDate: "2027-02-14",
